@@ -1,7 +1,7 @@
 # memory-game
-## A simple game made in JavaScript, HTML, and CSS. (French language)
+A simple game made in JavaScript, HTML, and CSS. (French language)
 
-### MIT Licence
+#### MIT Licence
 
 Copyright (c) 2020 Ania Kubow
 

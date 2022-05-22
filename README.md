@@ -1,2 +1,2 @@
 # memory-game
-A simple image-based memory game using HTML, CSS, and JavaScript. (French)
+A simple game made in JavaScript, HTML, and CSS. (French language)

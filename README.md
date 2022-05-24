@@ -1,7 +1,7 @@
 # memory-game
 A simple game made in JavaScript, HTML, and CSS. *(French language)*
 
-Based on Ania Kubow's original memory game.
+Based on Ania Kubow's original memory game. https://www.youtube.com/watch?v=Xm4BObh4MhI
 
 #### MIT Licence
 
